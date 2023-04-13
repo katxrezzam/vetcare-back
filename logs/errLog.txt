@@ -1,0 +1,22 @@
+20220927	14:05:15	4e11ebab-39eb-4873-8175-ae0ee3efd410	Error: No esta permitido por cors
+20221009	22:20:59	0c05368d-d366-4903-a8c7-91826bc5f61c	Error: No esta permitido por cors
+20221012	08:21:17	77c7204e-a29f-41ef-b13f-4d4bbb80c3ee	Error: ENOENT: no such file or directory, stat 'C:\Users\katxr\Desktop\pet-care\petcare-back\views\404.html'
+20221029	19:44:42	62546aff-6e76-4601-84e0-67f7a7f46034	Error: ENOENT: no such file or directory, stat 'C:\Users\katxrezzam\Documents\petcare\back\views\404.html'
+20221029	19:44:52	42a7a743-88a3-48d6-8868-66e623b4cde4	Error: ENOENT: no such file or directory, stat 'C:\Users\katxrezzam\Documents\petcare\back\views\404.html'
+20221030	20:46:00	555b1f1d-7bd5-41ef-afb6-0693924c392c	Error: Multipart: Boundary not found
+20221030	20:52:04	1172aba2-6990-4009-ab74-32d00de6e2ef	Error: Multipart: Boundary not found
+20221030	20:56:56	74dae550-bc70-4abb-a3f9-df68d96f1d04	Error: Multipart: Boundary not found
+20221030	20:59:52	c856b8d0-41ea-459a-99b6-8c414c2d4aaf	Error: Multipart: Boundary not found
+20221030	21:02:55	9470f889-9787-4cf4-8b6f-1e1af827994b	Error: Multipart: Boundary not found
+20221030	21:03:32	3e10a652-cf14-4954-be6e-65dd4e4bc3cf	Error: Multipart: Boundary not found
+20221030	21:04:01	8caa564e-de54-4511-b21b-b5674d770395	Error: Multipart: Boundary not found
+20221030	21:04:15	30a4d8b0-b7c8-4ad6-9732-1446beb6823c	Error: Multipart: Boundary not found
+20221030	23:41:45	f20632a8-39d0-4e0e-b39c-636f82e1e75a	Error: Multipart: Boundary not found
+20221030	23:49:35	9133ab49-60de-4556-a859-07de7a049624	Error: Multipart: Boundary not found
+20221031	00:28:49	3193b7c5-48f9-426b-8d33-962c3db9f93f	Error: Multipart: Boundary not found
+20221031	09:26:41	a3c7a3b8-59fc-45c1-a32b-15755a4fc7ef	Error: ENOENT: no such file or directory, stat 'C:\Users\katxrezzam\Documents\petcare\back\views\404.html'
+20221031	09:29:36	73406ba4-419c-4002-9066-ef5c280d42dc	Error: Multipart: Boundary not found
+20221031	09:30:00	c1c49aae-dee7-42c8-a55a-a652615df9c7	Error: Multipart: Boundary not found
+20221031	09:32:56	fd331f32-151f-47a3-bf12-c621e7a5d707	Error: Multipart: Boundary not found
+20221109	12:52:06	dfe7092d-73eb-4b7a-9b23-bccd59c721c8	Error: ENOENT: no such file or directory, stat 'C:\Users\katxrezzam\Documents\petcare\back\views\404.html'
+20221114	15:37:59	ec008fbe-4477-4788-b709-6741023a60f4	SyntaxError: Unexpected end of JSON input
